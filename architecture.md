@@ -43,3 +43,8 @@ public class MyObserver implements LifecycleObserver {
 
 
 通过：myLifecycleOwner.getLifecycle().addObserver(new MyObserver());方法设置监听
+
+
+http://www.jianshu.com/p/2fc41a310f79
+
+https://mp.weixin.qq.com/s?__biz=MzAwODY4OTk2Mg==&mid=2652045083&idx=1&sn=3bd46870ded8e1c60bae88c0b3e52141&chksm=808d5f5eb7fad64840e415a4ca1049edfbfcdedae042e9360cdfd5c08525ef85ea222dc50189&mpshare=1&scene=23&srcid=1127DuYHlPR2nD9dxL3YJmMs#rd
